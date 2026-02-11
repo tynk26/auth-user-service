@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-- **목표**: 회원가입 및 로그인 서버
+- **목표**: JWT토큰을 활용한 회원가입 및 로그인 서버
 - **백엔드**: Node.js + Express + TypeScript
 - **프론트엔드**: React + TypeScript + Vite
 - **주요 기능**:
