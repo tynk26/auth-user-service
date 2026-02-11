@@ -1,4 +1,4 @@
-# Auth User Service Fullstack Demo
+# Auth User Service Demo
 
 ## 프로젝트 개요
 
