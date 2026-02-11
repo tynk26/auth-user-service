@@ -1,12 +1,8 @@
-import express from "express";
+import app from "./app";
 
-const app = express();
 const PORT = 3000;
 
-app.get("/health", (_, res) => {
-  res.json({ status: "ok" });
-});
-
+// 서버 실행
 app.listen(PORT, () => {
-  console.log(`[backend] running on ${PORT}`);
+  console.log(`[backend] Server running on port ${PORT}`);
 });
